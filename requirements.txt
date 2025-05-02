@@ -1,0 +1,10 @@
+colorama
+comtypes
+concurrent_log_handler
+pywin32
+PyYAML
+tabulate
+requests
+fastapi
+uvicorn
+pydantic
